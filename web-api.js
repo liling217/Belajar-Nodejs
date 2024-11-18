@@ -1,0 +1,1 @@
+const request = new XMLHttpRequest(); //ajak tidak bisa untuk api di node js
